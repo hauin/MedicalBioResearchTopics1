@@ -1,27 +1,27 @@
 # Medical/Bio Research Topics 1
-1. Course Description
+## 1. Course Description
 
 In this class, introduction to brain imaging data as clinical data, explanation for processing brain imaging data, and practice in developing brain imaging-based artificial intelligence models are covered.
 
 
-2. Prerequisites
+## 2. Prerequisites
 
 For this class, knowledge of statistics at the undergraduate level and understanding of programming languages such as MATLAB, Python, and R are desired.
 
 
-3. Course Format
+## 3. Course Format
 
 Lecture	70 %; Discussion/Presentation	30 %
 
 In this class, lectures on introduction to brain imaging data and processing of brain imaging data are given, and then students actually develop brain imaging-based artificial intelligence models and present and discuss the performance and interpretation of the developed models.
 
 
-4. Course Objectives
+## 4. Course Objectives
 
 Through this class, students understand the clinical implication of brain imaging data and secure knowledge and experience in the development of brain imaging-based artificial intelligence models.
 
 
-5. Evaluation System
+## 5. Evaluation System
 
 Midterm Exam 40 %; 
 Presentation 50 %; 
@@ -30,17 +30,17 @@ Participation 10 %
 The degree of overall understanding of brain imaging data and knowledge about brain imaging data processing data are evaluated through the midterm exam, and the development process and results of brain imaging-based artificial intelligence models are evaluated through presentation and discussion.
 
 
-6. Required Materials
+## 6. Required Materials
 
 Lecture slides.
 
 
-7. Supplementary Materials
+## 7. Supplementary Materials
 
 
-8. Optional Additional Readings
+## 8. Optional Additional Readings
 
-Neuroimaging
+### Neuroimaging
 
 - Introduction to Neuroimaging Analysis (Authors: Mark Jenkinson, Michael Chappell; Oxford University Press; 2018)
 
@@ -48,7 +48,7 @@ Neuroimaging
 
 - 뇌영상과 정신의 이해 (Authors: 김재진, 김지웅, 정범석, 이은, 석정호; 중앙문화사; 2007)
 
-Neuroanatomy
+### Neuroanatomy
 
 - Neuroanatomy Atlas in Clinical Context: Structures, Sections, Systems, and Syndromes, 10th Edition (Author:  Duane E. Haines; LWW; 2018)
 Machine learning for neuroimaging
@@ -57,7 +57,7 @@ Machine learning for neuroimaging
 
 - Machine Learning in Clinical Neuroimaging (Editors: Ahmed Abdulkadir, Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Thomas Wolfers, Springer, 2022)
 
-9. Course Contents
+## 9. Course Contents
 
 [Week 01] 03/03/2023(FRI): Introduction to the brain imaging-based artificial intelligence models
 

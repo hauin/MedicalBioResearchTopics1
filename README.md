@@ -1,4 +1,4 @@
-# MedicalBioResearchTopics1
+# Medical/Bio Research Topics 1
 1. Course Description
 
 In this class, introduction to brain imaging data as clinical data, explanation for processing brain imaging data, and practice in developing brain imaging-based artificial intelligence models are covered.
